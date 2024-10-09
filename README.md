@@ -11,7 +11,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
 
-# My Awesome KMP Note Taking App## Build and Run Instructions
+# My Awesome KMP Note Taking App # # Build and Run Instructions
 
 ### Android
 
