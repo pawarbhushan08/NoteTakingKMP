@@ -15,7 +15,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 ### Android
 
-1. **Clone the repository:** bash git clone <repository_url>
+1. **Clone the repository:** bash git clone https://github.com/pawarbhushan08/NoteTakingKMP.git
 2. **Open the project in Android Studio:**
   - Launch Android Studio.
   - Select "Open an existing Android Studio project."- Navigate to the cloned repository and select the project folder.
