@@ -18,7 +18,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 1. **Clone the repository:** bash git clone https://github.com/pawarbhushan08/NoteTakingKMP.git
 2. **Open the project in Android Studio:**
   - Launch Android Studio.
-  - Select "Open an existing Android Studio project."- Navigate to the cloned repository and select the project folder.
+  - Select "Open an existing Android Studio project."- Navigate to the cloned repository and select the composeApp folder.
 
 3. **Build and run the app:**
   - Connect your Android device or start an emulator.
@@ -26,7 +26,14 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 ### iOS 
 
-*//TODO:Provide iOS build and run instructions.*
+1. **Clone the repository:** bash git clone https://github.com/pawarbhushan08/NoteTakingKMP.git
+2. **Open the project in XCode:**
+  - Launch XCode.
+  - Select "Open an existing project."- Navigate to the cloned repository and select the iosApp folder.
+
+3. **Build and run the app:**
+  - Connect & start an emulator.
+  - Click the "Run" button in the toolbar.
 
 ## Features
 
