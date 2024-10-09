@@ -37,7 +37,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 ## Code Structure and Architecture
 
-### OverviewThe app follows a Model-View-ViewModel (MVVM) architectural pattern. This helps to separate concerns and improve code maintainability.
+### Overview: The app follows a Model-View-ViewModel (MVVM) architectural pattern. This helps to separate concerns and improve code maintainability.
 
 ### Key Components
 
